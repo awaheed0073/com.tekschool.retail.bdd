@@ -1,0 +1,18 @@
+2020-10-01 21:07:46,221 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-01 21:07:49,554 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:17:49,512 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:17:55,332 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-14 18:51:53,852 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 18:52:04,386 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-14 19:02:55,841 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 19:02:59,467 - logger_File -INFO - Login to MyAccount   failed
+2020-10-14 19:27:15,842 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 19:27:20,210 - logger_File -INFO - Retail page is opened
+2020-10-14 19:27:20,217 - logger_File -INFO - Page title  is verified
+2020-10-14 19:27:21,819 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-14 20:35:08,845 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 20:35:13,222 - logger_File -INFO - Retail page is opened
+2020-10-14 20:35:13,232 - logger_File -INFO - Page title  is verified
+2020-10-14 20:35:14,956 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-21 18:51:17,763 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-10-21 18:51:23,479 - logger_File -INFO - Execute all information from Actor Table   undefined
